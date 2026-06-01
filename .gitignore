@@ -1,2 +1,3 @@
 # ignora todos los archivos temporales
 *.~
+*.swp
